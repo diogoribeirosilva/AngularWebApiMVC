@@ -1,0 +1,158 @@
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\csc.exe
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\System.Collections.Immutable.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\vbc.exe
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\VBCSCompiler.exe
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\VBCSCompiler.exe.config
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\CrudComAngularJsWebApi.dll.config
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\CrudComAngularJsWebApi.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\CrudComAngularJsWebApi.pdb
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\Antlr3.Runtime.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\EntityFramework.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\EntityFramework.SqlServer.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\Newtonsoft.Json.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Helpers.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Mvc.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Optimization.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Razor.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.WebPages.Deployment.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.WebPages.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.WebPages.Razor.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\WebGrease.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\EntityFramework.xml
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\EntityFramework.SqlServer.xml
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Helpers.xml
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Mvc.xml
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Optimization.xml
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Razor.xml
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.WebPages.xml
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.WebPages.Deployment.xml
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.WebPages.Razor.xml
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\Antlr3.Runtime.pdb
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\Newtonsoft.Json.xml
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\obj\Debug\CrudComAngularJsWebApi.csprojResolveAssemblyReference.cache
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\obj\Debug\CrudComAngularJsWebApi.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\obj\Debug\CrudComAngularJsWebApi.pdb
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Net.Http.Formatting.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Http.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Http.WebHost.dll
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Net.Http.Formatting.xml
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Http.xml
+c:\users\galante\documents\visual studio 2015\Projects\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\csc.exe
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\vbc.exe
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\CrudComAngularJsWebApi.dll.config
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\CrudComAngularJsWebApi.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\CrudComAngularJsWebApi.pdb
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\Antlr3.Runtime.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\EntityFramework.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Helpers.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Http.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Mvc.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Optimization.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Razor.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.WebPages.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\WebGrease.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\EntityFramework.xml
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Http.xml
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Helpers.xml
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Mvc.xml
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Optimization.xml
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.Razor.xml
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.WebPages.xml
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\Antlr3.Runtime.pdb
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\bin\Newtonsoft.Json.xml
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\obj\Debug\CrudComAngularJsWebApi.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\obj\Debug\CrudComAngularJsWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\obj\Debug\CrudComAngularJsWebApi.csproj.CopyComplete
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\obj\Debug\CrudComAngularJsWebApi.dll
+C:\Users\Diogo\Desktop\CrudComAngularJsWebApi\CrudComAngularJsWebApi\obj\Debug\CrudComAngularJsWebApi.pdb
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\obj\Debug\CrudComAngularJsWebApi.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\obj\Debug\CrudComAngularJsWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\obj\Debug\CrudComAngularJsWebApi.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\obj\Debug\CrudComAngularJsWebApi.pdb
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\roslyn\csc.exe
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\roslyn\vbc.exe
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\CrudComAngularJsWebApi.dll.config
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\CrudComAngularJsWebApi.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\CrudComAngularJsWebApi.pdb
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\Antlr3.Runtime.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\Iesi.Collections.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\Newtonsoft.Json.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\NHibernate.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\Remotion.Linq.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\Remotion.Linq.EagerFetching.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.Helpers.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.Http.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.Mvc.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.Optimization.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.Razor.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.WebPages.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\WebGrease.dll
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\Antlr3.Runtime.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\Iesi.Collections.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\NHibernate.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\Remotion.Linq.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\Remotion.Linq.EagerFetching.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.Http.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.Helpers.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.Mvc.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.Optimization.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.Razor.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.WebPages.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\bin\Newtonsoft.Json.xml
+C:\Users\Diogo\Desktop\CRUDANGULAR TESTE\CrudComAngularJsWebApi\obj\Debug\CrudComAngularJsWebApi.csproj.CopyComplete
